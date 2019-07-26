@@ -1915,6 +1915,18 @@ a.gradient-btn:hover:after{
 }
 
 .timeline-body > p + p {
-  margin-top: 5px;
+  margin-top: 50px;
+}
+.ex1 { 
+  padding-left: auto;
+  padding-right: auto;
+  margin: auto;
+  width: 60%;
+ 
+  padding: 10px;
+}
+img {
+  width: 100%;
+  height: auto;
 }
 /*===================================== end =================================*/
