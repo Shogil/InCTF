@@ -1,1 +1,1 @@
-# InCTF-Website
+shogil.github.io
