@@ -159,6 +159,9 @@ a.single-about,
   position: relative;
   width: 100%;
 }
+.tc{
+  text-align: center
+}
 
 .header-area.header-absolate.skrollable.skrollable-after {
   padding-top: 15px;
