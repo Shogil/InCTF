@@ -333,7 +333,7 @@
 ================+/+/+/+/+/+/+/+/+/=================
 */
 
-@media only screen and (min-width: 0px) and (max-width: 767px) {
+@media only screen and (min-width: 0px) and (max-width: 767pem) {
 
     .heading h1 {
         font-size: 18px;
@@ -570,8 +570,8 @@
         font-size: 10px;
     }
     .gradient-btn.v2 {
-        height: 30px;
-        line-height: 30px;
+        height: 30pem;
+        line-height: 30pem;
         margin-bottom: 10px;
         padding: 0 15px;
     }
