@@ -267,6 +267,17 @@ a.single-about,
   left: -29%;
   z-index: -1;
 }
+.sponsors-area::before {
+  position: absolute;
+  width: 100%;
+  height: 161%;
+  content: "";
+  background: url(assets/img/Group1.png) no-repeat;
+  background: ;
+  top: -62%;
+  left: -29%;
+  z-index: -1;
+}
 
 .gradient-btn.v2 {
   height: 55px;
